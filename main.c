@@ -1,5 +1,5 @@
 /* Copyright (c) 2017 Connor "Blacksilver" [REDACTED]. See LICENSE.
- * Have fun trying to bead this thing!
+ * Have fun trying to beat this thing!
  */
  
 #include "header.h"
